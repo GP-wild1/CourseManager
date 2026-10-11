@@ -1,2 +1,2 @@
 # CourseManager
-Rethinking the backendof the Neptun school system
+Rethinking the backend of the Neptun school system
